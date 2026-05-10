@@ -4,7 +4,6 @@
 become more proficient in SQL and learn more about Azure and Power BI
 - 💞️ I’m looking to collaborate on projects that involve creating user experiences that leverage data-focused libraries with machine learning principles. 
 - 📫 How to reach me: Feel free to contact me at my linkedin - https://www.linkedin.com/in/shrey-patel-57466a256/. You can also reach out to me via email at shreypatel233@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
 
 <!---
